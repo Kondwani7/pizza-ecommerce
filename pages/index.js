@@ -10,7 +10,7 @@ export default function Home() {
         <meta name="description" content="Pizza ecommerce store" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1> Home page</h1>
+      <h1> Pizza ecommerce store</h1>
       
     </div>
   )
